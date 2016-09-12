@@ -1,7 +1,7 @@
 # hello-world
 
 Went to "archetecture week" at AWS loft in new york city last week, and was completely blown away by two things:
-1) I knew about 85% of what they were talking about. I've been teaching myself python and linux for the past year and was surprised at home much I actuall do know.
+1) I knew about 85% of what they were talking about; I've been teaching myself python and linux for the six monthy and was surprised at home much I actually do know.
 
 2) How cloud/microsystem architechture is the present and future of development/operations.
 
